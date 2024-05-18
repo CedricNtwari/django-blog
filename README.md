@@ -19,6 +19,18 @@ Welcome to the **django-blog** project! This project demonstrates the creation o
 - **Cloudinary**: Image storage and hosting
 - **JavaScript**: For enhanced interactivity
 
+## Features
+
+- **User Registration and Authentication**
+- **User Roles and Permissions**
+- **Blog Posts**
+- **Comments**
+- **Post Viewing**
+- **User Profiles**
+- **NOtifications**
+- **Admin dashboard for managing posts, comments**
+
+
 ## Codeanywhere Reminders
 
 To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
