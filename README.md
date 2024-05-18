@@ -1,10 +1,23 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# django-blog
 
-Welcome,
+Welcome to the **django-blog** project! This project demonstrates the creation of a Django-based blog with various features including database-backed storage, cloud image hosting, custom authentication, and enhanced interactivity using JavaScript. The project is deployed on Heroic, with a PostgreSQL for the database to store comments, posts & likes and Cloudinary for image storage.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Learning Outcomes
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+1. **Create a database-backed Django project & deploy it to Heroku**
+2. **Host upload images on a cloud provider (Cloudinary)**
+3. **Create function-based views in a Django project**
+4. **Use built-in Django generic views**
+5. **Add an authentication back-end and create custom database models**
+6. **Add extra interactivity with JavaScript**
+
+## Technologies Used
+
+- **Django**: Web framework
+- **Heroku**: Deployment platform
+- ** **: PostgreSQL database service
+- **Cloudinary**: Image storage and hosting
+- **JavaScript**: For enhanced interactivity
 
 ## Codeanywhere Reminders
 
