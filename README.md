@@ -30,6 +30,12 @@ Welcome to the **django-blog** project! This project demonstrates the creation o
 - **NOtifications**
 - **Admin dashboard for managing posts, comments**
 
+## GitHub Board for User Stories
+
+We use a GitHub project board to manage our user stories, tasks, and progress. You can view the board at the following link:
+
+[GitHub Project Board](https://github.com/users/CedricNtwari/projects/1/views/1?layout=board)
+
 
 ## Codeanywhere Reminders
 
