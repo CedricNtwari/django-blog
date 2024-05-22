@@ -24,3 +24,4 @@ typing_extensions==4.11.0
 urllib3==2.2.1
 Werkzeug==3.0.2
 whitenoise==6.5.0
+django-summernote~=0.8.20.0
